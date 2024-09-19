@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently working on a full stack application that requires me to create a API that stores data  to a MYSQL database ,from the data that web scrapped .I intend to use that data to create a website that displays all of the devil fruit users in one piece.<br>I am currently learning about angular and getting better at front end development as a whole.<br> 
+I am currently a student at We Think Code, aspiring to become a proficient FullStack Developer. My journey began with mastering Python, focusing on Procedural Programming, which enabled me to complete several automation projects. Currently, I am deepening my expertise in Java, specifically in Object-Oriented Programming (OOP).
+
+In addition to my backend development skills, I am also exploring FrontEnd Development and have gained experience using Anglular. To stay versatile and well-rounded, I am actively learning Springboot and deeping my understanding of it.
+
+My passion for technology drives me to continuously expand my knowledge and capabilities. I am dedicated to becoming a well-rounded FullStack Developer, capable of tackling diverse challenges and contributing to innovative projects.
 
 
 ## 🌐 Socials:
